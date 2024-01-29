@@ -129,11 +129,12 @@ WEIGHT_DECAY = 0        # L2 weight decay
 
 ## Training Result
 
-The following plot describes the training progress.
+The following plot describes the average reward during training progress.
 
 ```bash
-Environment solved in 26 episodes!      Average Score: 37.65
+Environment solved in 30 episodes!      Average Score: 37.67
 ```
+![Training Progress](./assets/scores.png)
 
 ## Ideas for Future Work
 Some ways to improve the training process could be:
