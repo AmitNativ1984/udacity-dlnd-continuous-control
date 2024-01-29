@@ -2,3 +2,5 @@ unity-environment.log
 Reacher_Linux_NoVis/
 python/build
 runs/
+__pycache__/
+.hypothesis/
